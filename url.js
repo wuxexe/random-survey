@@ -9,7 +9,6 @@
 
 const urls = [
 	'https://docs.google.com/forms/d/e/1FAIpQLSfLIc8qBzfJ59d2_XcMAv45aZXrOdXV3taVMr_7De3Mb46anw/viewform?usp=dialog',
-	'https://www.youtube.com/watch?v=MkViJPnvOpI&list=RDMkViJPnvOpI&start_radio=1',
-	'https://www.youtube.com/watch?v=OZXy0t2i21A&list=RDMkViJPnvOpI&index=4',
-        'https://www.youtube.com/watch?v=Ff-2X9x79W0&list=RDMkViJPnvOpI&index=6',
+	'https://youtu.be/5VflcETEN0E?si=r6NuCSMShyR-bMJj',
+	'https://www.youtube.com/watch?v=GsmIsbAW_hU',
 ];
